@@ -1,5 +1,5 @@
 
-[![SoftwareDevPro](https://circleci.com/gh/SoftwareDevPro/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/SoftwareDevPro/project-ml-microservice-kubernetes)
+[![SoftwareDevPro](https://circleci.com/gh/SoftwareDevPro/project-ml-microservice-kubernetes.svg?style=shield)](https://circleci.com/gh/SoftwareDevPro/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
