@@ -49,3 +49,16 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+# Submissions Rubric
+
+https://github.com/SoftwareDevPro/project-ml-microservice-kubernetes
+https://github.com/SoftwareDevPro/project-ml-microservice-kubernetes/blob/master/output_txt_files/docker_out.txt
+https://github.com/SoftwareDevPro/project-ml-microservice-kubernetes/blob/master/output_txt_files/kubernetes_out.txt
+https://github.com/SoftwareDevPro/project-ml-microservice-kubernetes/tree/master/.circleci/config.yml
+https://github.com/SoftwareDevPro/project-ml-microservice-kubernetes/blob/master/Dockerfile
+https://github.com/SoftwareDevPro/project-ml-microservice-kubernetes/blob/master/run_docker.sh
+https://github.com/SoftwareDevPro/project-ml-microservice-kubernetes/blob/master/run_kubernetes.sh
+https://github.com/SoftwareDevPro/project-ml-microservice-kubernetes/blob/master/upload_docker.sh
+https://github.com/SoftwareDevPro/project-ml-microservice-kubernetes/blob/master/app.py
+
